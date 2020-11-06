@@ -150,6 +150,7 @@ We wrote [Scripts](https://linuxhint.com/python_scripts_beginners_guide/) of pyt
 This part was really fun, we coded a guessing game where a user has to guess a number and get the result in three chances where the right number will be random every time. The script looks like- 
 
 '''Python
+    
     import random
     right = random.randint(1,5)
     print(right)
