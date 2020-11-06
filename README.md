@@ -76,6 +76,8 @@ This is because tuples are immutable, hence elements of a tuple cannot be change
 
 - [Dictionary](https://realpython.com/python-dicts/) - Dictionary in Python is an unordered collection of data values, used to store data values like a map.Unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair.
 
+
+
 ---
 **Chapter 3 :**
 
@@ -107,8 +109,22 @@ _Seg 2_
 
 Computers are often used to automate repetitive tasks. Repeating identical or similar tasks without making errors is something that computers do well and people do poorly.
 
-Repeated execution of a set of statements is called iteration. Python has two statements for iteration – the [for](https://www.w3schools.com/python/python_for_loops.asp) statement, which we met last chapter, and the [while](https://www.w3schools.com/python/python_while_loops.asp) statement.
+Repeated execution of a set of statements is called iteration. Python has two statements for iteration – the [for](https://www.w3schools.com/python/python_for_loops.asp) statement which we met last chapter, 
 
+'''for loop example
+    
+    fruits = ["apple", "banana", "cherry"]
+    for x in fruits:
+        print(x)'''
+
+and the [while](https://www.w3schools.com/python/python_while_loops.asp) statement.
+
+'''while loop example
+
+     i = 1
+    while i < 6:
+        print(i)
+        i += 1
 
 _Seg 3_
 [Assignments](https://dsft.code-data-ai.com/python-workshops/) : 
