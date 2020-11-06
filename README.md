@@ -1,3 +1,6 @@
+# table of contents
+* [Chapter 2](https://github.com/Sheikh-Nabil/week1_evaluation#Seg%201%20Decision%20Making)
+
 # Week 1 evalution Report #
 
 ![Header picture](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg)
