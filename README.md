@@ -85,7 +85,7 @@ This chapter is segmented in three parts-
 
 |Seg1|Seg2|Seg3|
 |---|---|---|
-|Decision Making|Working with loops|Assignments
+|[Decision Making]()|Working with loops|Assignments
 
 A little hints below - 
 
