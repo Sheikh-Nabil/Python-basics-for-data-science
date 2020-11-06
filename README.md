@@ -25,7 +25,7 @@ This chapter of the week we actually started coding with python but before we le
 
 1. Numeric : 
 
-- [Intergers](https://www.w3schools.com/python/python_numbers.asp) – This value is represented by int class. It contains positive or negative whole numbers (without fraction or decimal). In Python there is no limit to how long an interger value can be.
+- [Intergers](https://www.geeksforgeeks.org/python-int-function/) – This value is represented by int class. It contains positive or negative whole numbers (without fraction or decimal). In Python there is no limit to how long an interger value can be.
 
 - [Float](https://www.programiz.com/python-programming/methods/built-in/float) – This value is represented by float class. It is a real number with floating point representation. It is specified by a decimal point. Optionally, the character e or E followed by a positive or negative integer may be appended to specify scientific notation.
 
