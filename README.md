@@ -145,6 +145,16 @@ Solution -
 
 This chapter we made the evalution of our 15 problems from the assignments. 
 
+We started the next session working with [Functions](https://www.programiz.com/python-programming/function). Functions in python are blocks of code that allows us to re-use these codes again and again without writing the whole block of code again. 
+
+''' A simple function can be written as
+
+    def greet(name):
+    
+    print("Hello, " + name + ". Good morning!")
+
+    greet('Paul')
+
 We wrote [Scripts](https://linuxhint.com/python_scripts_beginners_guide/) of python for the first time.
 
 This part was really fun, we coded a guessing game where a user has to guess a number and get the result in three chances where the right number will be random every time. The script looks like- 
