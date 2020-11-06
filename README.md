@@ -85,7 +85,7 @@ This chapter is segmented in three parts-
 
 |Seg1|Seg2|Seg3|
 |---|---|---|
-|[Decision Making](https://github.com/Sheikh-Nabil/week1_evaluation#Seg%201%20Decision%20Making)|Working with loops|Assignments
+|[Decision Making](https://github.com/Sheikh-Nabil/week1_evaluation#Seg%201%20Decision%20Making)|[Working with loops](https://github.com/Sheikh-Nabil/week1_evaluation#Seg%202%20Working%20with%20loops)|Assignments
 
 A little hints below - 
 
