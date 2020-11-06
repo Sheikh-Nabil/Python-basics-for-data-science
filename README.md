@@ -4,23 +4,75 @@
 ---
 **Chapter 1 :**
 
-This chapter I learned about the basics of [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) why it is impotant for [data science](https://de.wikipedia.org/wiki/Data_Science) and how the basics works. Python is basically a [High Level Language](https://en.wikipedia.org/wiki/High-level_programming_language). 
+This chapter we learned about the basics of [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) why it is impotant for [data science](https://de.wikipedia.org/wiki/Data_Science) and how the basics works. Python is basically a [High Level Language](https://en.wikipedia.org/wiki/High-level_programming_language). 
 
 
-The second part I got introduced with [Visual Studio](https://code.visualstudio.com/docs/setup/setup-overview) and how it reacts with [Git Hub](https://github.com/CodeAcademyBerlin/content). And for the last part I started working with the famously used [calendly](https://calendly.com/jost_cab/meetin) for Code Academy Berlin. 
+The second part we got introduced with [Visual Studio](https://code.visualstudio.com/docs/setup/setup-overview) and how it reacts with [Git Hub](https://github.com/CodeAcademyBerlin/content). And for the last part we started working with the famously used [calendly](https://calendly.com/jost_cab/meetin) for Code Academy Berlin. 
 
 
 ---
 **Chapter 2 :**
-This chapter of the week I actually started coding with python but before we learned how to put all of our team workflow in the same line by using [Trello](https://trello.com/en). 
+This chapter of the week we actually started coding with python but before we learned how to put all of our team workflow in the same line by using [Trello](https://trello.com/en). 
 
-[Data Types](https://dsft.code-data-ai.com/data-types-python/)- Basically in this segment I learned about different types of data types and operators in python.
+[Data Types](https://dsft.code-data-ai.com/data-types-python/)- Basically in this segment we learned about different types of data types and operators in python.
 
 
 
 ![Data Types](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/data_types.jpg) 
 
+1. Numeric : 
 
+- Intergers – This value is represented by int class. It contains positive or negative whole numbers (without fraction or decimal). In Python there is no limit to how long an interger value can be.
+
+- Float – This value is represented by float class. It is a real number with floating point representation. It is specified by a decimal point. Optionally, the character e or E followed by a positive or negative integer may be appended to specify scientific notation.
+
+2. Boolean :
+
+A Boolean value expresses a truth value (which can be either true or false). So, it can contain the two built-in values, True or False. Boolean objects that are equal to True are truthy (true), and those equal to False are falsy (false). However, non-Boolean objects can be evaluated in Boolean context as well and determined to be true or false. It is denoted by the class bool.
+
+3. Sequential :
+
+- List - Lists are just like the arrays, declared in other languages. Lists need not be homogeneous always which makes it the most powerful tool in Python.
+
+      A. append() - Add an element to the end of the list 
+ 
+      extend() - Add all elements of a list to the another list
+
+       insert() - Insert an item at the defined index
+
+
+       remove() - Removes an item from the list
+
+
+       pop() - Removes and returns an element at the given index
+
+
+       clear() - Removes all items from the list
+
+
+       index() - Returns the index of the first matched item
+
+
+       count() - Returns the count of number of items passed as an argument
+
+
+       sort() - Sort items in a list in ascending order
+
+
+       reverse() - Reverse the order of items in the list
+
+
+       copy() - Returns a shallow copy of the list
+
+- String - In Python, Strings are arrays of bytes representing Unicode characters. A string is a collection of one or more characters put in a single quote, double-quote or triple quote
+
+- Tuple - Tuple is an ordered collection of Python objects much like a list. The sequence of values stored in a tuple can be of any type, and they are indexed by integers.
+
+4. Container : 
+
+- Set - Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements.The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set.
+
+- Dictionary - Dictionary in Python is an unordered collection of data values, used to store data values like a map.Unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair.
 
 ---
 **Chapter 3 :**
