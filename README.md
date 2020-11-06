@@ -87,7 +87,7 @@ This chapter is segmented in three parts-
 
 A little hints below - 
 
-**Seg 1:_**
+_Seg 1_
 [Decision Making](https://techvidvan.com/tutorials/decision-making-in-python/)**:**
 
 There comes a point in our life where we need to decide what steps should be taken and based on that we decide our next decisions. In programming, we often have this similar situation where we need to decide which block of code should be executed based on a condition.Decisions like these are required everywhere in programming and they decide the direction of flow of program execution. Python has the following decision-making statements:
@@ -101,7 +101,7 @@ There comes a point in our life where we need to decide what steps should be tak
 ![Nested Statements](https://media.geeksforgeeks.org/wp-content/uploads/20200326162237/nested-if1.jpg)
 
 
-**Seg 2:_**
+_Seg 2_
 [Working with loops](https://www.openbookproject.net/books/bpp4awd/ch04.html) :
 
 
@@ -110,7 +110,7 @@ Computers are often used to automate repetitive tasks. Repeating identical or si
 Repeated execution of a set of statements is called iteration. Python has two statements for iteration – the [for](https://www.w3schools.com/python/python_for_loops.asp) statement, which we met last chapter, and the [while](https://www.w3schools.com/python/python_while_loops.asp) statement.
 
 
-**Seg 3 :**
+_Seg 3_
 [Assignments](https://dsft.code-data-ai.com/python-workshops/) : 
 
 First 15 problems were solved in this segments. By doing so we learned mostly about functions and how it workes for different values.  
