@@ -35,7 +35,7 @@ A Boolean value expresses a truth value (which can be either true or false). So,
 
 3. Sequential :
 
-- List - Lists are just like the arrays, declared in other languages. Lists need not be homogeneous always which makes it the most powerful tool in Python.
+- [List](https://www.w3schools.com/python/python_lists.asp) - Lists are just like the arrays, declared in other languages. Lists need not be homogeneous always which makes it the most powerful tool in Python.
 
       A.**List Methods :**
          append() - Add an element to the end of the list 
@@ -50,7 +50,7 @@ A Boolean value expresses a truth value (which can be either true or false). So,
          reverse() - Reverse the order of items in the list
          copy() - Returns a shallow copy of the list
 
-- String - In Python, Strings are arrays of bytes representing Unicode characters. A string is a collection of one or more characters put in a single quote, double-quote or triple quote
+- [String](https://www.w3schools.com/python/python_strings.asp) - In Python, Strings are arrays of bytes representing Unicode characters. A string is a collection of one or more characters put in a single quote, double-quote or triple quote
 
       A.**String Methods :**
        s.lower(), s.upper() — returns the lowercase or uppercase version of the string
