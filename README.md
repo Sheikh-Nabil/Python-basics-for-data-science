@@ -98,7 +98,7 @@ There comes a point in our life where we need to decide what steps should be tak
 4. Nested Statements
 
 
-![Nested Statements](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Python-nested-if-statement.jpg)
+![Nested Statements](https://media.geeksforgeeks.org/wp-content/uploads/20200326162237/nested-if1.jpg)
 
 
 **Seg 2:_**
@@ -115,6 +115,29 @@ Repeated execution of a set of statements is called iteration. Python has two st
 
 First 15 problems were solved in this segments. By doing so we learned mostly about functions and how it workes for different values.  
 
+A simple problem and solution looks like - 
+- Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+
+  You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2.
+The array will always contain letters in only one case.
+
+Solution - 
+'''Python
+        
+        import string
+        def find_missing_letter(s):
+            alp_lower = list(string.ascii_lowercase)
+            alp_upper = list(string.ascii_uppercase)
+  
+        s1 = ''.join(s)
+  
+        if s1.isupper():
+            x = set(alp_upper[alp_upper.index(s[0]):alp_upper.index(s[-1])+1]) - set(s)
+        return x.pop()
+        else: 
+            x = set(alp_lower[alp_lower.index(s[0]):alp_lower.index(s[-1]) + 1]) - set(s)
+        return x.pop()'''
+
 
 ---
 
@@ -124,4 +147,23 @@ This chapter we made the evalution of our 15 problems from the assignments.
 
 We wrote [Scripts](https://linuxhint.com/python_scripts_beginners_guide/) of python for the first time.
 
-This part was really fun, we coded a guessing game where a user has to guess a number and get the result in three chances where the right number will be random every time.  
+This part was really fun, we coded a guessing game where a user has to guess a number and get the result in three chances where the right number will be random every time. The script looks like- 
+
+'''Python
+    import random
+    right = random.randint(1,5)
+    print(right)
+
+
+    name = input('your name ') 
+        for i in range(3):
+            number = int(input('guess a number '))
+    if number == right:
+        print('you won')
+        break
+    else:
+        if i < 2:
+            print('try again')
+    else:
+        print('you lost')
+'''
