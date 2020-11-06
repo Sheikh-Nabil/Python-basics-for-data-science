@@ -2,7 +2,7 @@
 
 ![Header picture](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg)
 
-##Learning the sexiest job in the market with [CA Berlin](https://www.codeacademyberlin.com/)## 
+Learning the sexiest job in the market with [CA Berlin](https://www.codeacademyberlin.com/)
 
 ---
 **Chapter 1 :**
@@ -167,3 +167,12 @@ This part was really fun, we coded a guessing game where a user has to guess a n
     else:
         print('you lost')
 '''
+
+
+--- 
+
+**Chapter 5 :**
+
+Thats the end of week one for a new beginning for Team Leopard. 
+
+![Footer picture](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/6/2020/08/05121055/COVID-thank-you.jpg)
