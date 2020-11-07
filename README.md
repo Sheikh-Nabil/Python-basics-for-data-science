@@ -9,7 +9,7 @@ Learning the sexiest job in the market with [CA Berlin](https://www.codeacademyb
 
 Table of contents:
 <!--ts-->
-   * [Day-1](#https://github.com/Sheikh-Nabil/week1_evaluation#Chapter%201%20:)
+   * [Chapter 1](#chapter1)
    * [Day-2](#Day-2)
    * [Day-3](#Day-3)
    * [Day-4](#Day-4)
