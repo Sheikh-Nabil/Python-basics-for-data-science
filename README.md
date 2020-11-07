@@ -10,9 +10,9 @@ Learning the sexiest job in the market with [CA Berlin](https://www.codeacademyb
 Table of contents:
 <!--ts-->
    * [Chapter 1](#chapter1)
-   * [Day-2](#Day-2)
-   * [Day-3](#Day-3)
-   * [Day-4](#Day-4)
+   * [Chapter 2](#chapter2)
+   * [Chapter 3 ](#chapter3)
+   * [Chapter 4](#chapter4)
 <!--te-->
 
 ---
